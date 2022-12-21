@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring_demo</module>
-        <module>spring_demo/elasticsearch_demo</module>
     </modules>
 
     <properties>
